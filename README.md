@@ -20,13 +20,13 @@ Linux 	~/.local/share/0ad/mods/
 macOS 	~/Library/Application\ Support/0ad/mods/
 
 
-    Pick one of three ways to install the mod
-        GitHub
-            Clone it in your /0ad/mods/ folder.
-        Pyromod
-            Drag the file over the 0ad start icon or double click it.
-            The mod gets unpacked and placed automatically in your /0ad/mods/ folder.
-        ZIP
-            Unpack it in your /0ad/mods/ folder.
-    Start 0 A.D., click Settings and Mod Selection.
-    Double-click boonGUI, click Save Configuration and Start Mods.
+Pick one of three ways to install the mod
+    GitHub
+        Clone it in your /0ad/mods/ folder.
+    Pyromod
+        Drag the file over the 0ad start icon or double click it.
+        The mod gets unpacked and placed automatically in your /0ad/mods/ folder.
+    ZIP
+        Unpack it in your /0ad/mods/ folder.
+Start 0 A.D., click Settings and Mod Selection.
+Double-click boonGUI, click Save Configuration and Start Mods.
