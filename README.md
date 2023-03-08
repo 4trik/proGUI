@@ -14,19 +14,14 @@ OP Boom, you are in control, curated info displayed on screen.
 
 ## Install
 
-System 	Default location for the /0ad/mods/ folder
-Windows 	~\Documents\My Games\0ad\mods\
-Linux 	~/.local/share/0ad/mods/
-macOS 	~/Library/Application\ Support/0ad/mods/
+System Default location for the /0ad/mods/folder
 
+Windows : ~\Documents\My Games\0ad\mods\
 
-Pick one of three ways to install the mod
-    GitHub
-        Clone it in your /0ad/mods/ folder.
-    Pyromod
-        Drag the file over the 0ad start icon or double click it.
-        The mod gets unpacked and placed automatically in your /0ad/mods/ folder.
-    ZIP
-        Unpack it in your /0ad/mods/ folder.
+Linux : ~/.local/share/0ad/mods/
+
+macOS : ~/Library/Application\ Support/0ad/mods/
+
+Unpack root zip in your /0ad/mods/ folder.
 Start 0 A.D., click Settings and Mod Selection.
 Double-click boonGUI, click Save Configuration and Start Mods.
