@@ -1,27 +1,32 @@
-# proGUI
-ProGUI
-Build on boonGUI
--"Modes" are instead list of trainable units
-You set the % with mouse-wheel OR you can toggle it for units to train whenever.
-The units you want will train from buildings automatically.
--See and manage idle units and buildings (first two rows on left).
--See productions and army composition (two smaller rows below).
--Auto-tribute allies.
--Auto-research certain technologies.
--Toggle to deactivate.
+ProGUI is based on BoonGUI. Main feature: allow the training of units through a dedicated panel. You decide the units you want to be produced and military buildings will training.
 
-OP Boom, you are in control, curated info displayed on screen.
+ ## ✨Features:
 
-## Install
+-   Trainer: set the composition of units you want with mouse-wheel or toggle training of units you want to be trained whenever possible.
+-   Pro Panel:
+    -   Enable/Disable trainer
+    -   Queue researches in forge or eco buildings
+    -   Activate or not the automatic sharing of resources to allies.
+    -   Ready for NextPhase: put on hold all queuing of new units and research until you have the conditions to start upgrading to next phase.
+-   Boon rows:
+    -   Display all idle workers
+    -   Display all idle important buildings
+    -   Display units in production
+    -   Display all units (current army composition)
+-   QuickStart:
+    -   When starting with a Civic Center, units will be assigned to gather resource immediately.
+    -   You can customize what units should be assigned to what resource.
+-   Deeply customizable mod with settings.
+  
+  
+## 👨‍💻 Install
 
 System Default location for the /0ad/mods/folder
 
-Windows : ~\Documents\My Games\0ad\mods\
-
-Linux : ~/.local/share/0ad/mods/
-
-macOS : ~/Library/Application\ Support/0ad/mods/
+   * Linux: `~/.local/share/0ad/mods/`
+   * macOS: `~/Library/Application\ Support/0ad/mods/`
+   * Windows: `~\Documents\My Games\0ad\mods\`
 
 Unpack root zip in your /0ad/mods/ folder.
 Start 0 A.D., click Settings and Mod Selection.
-Double-click boonGUI, click Save Configuration and Start Mods.
+Double-click boonGUI/proGUI, click Save Configuration and Start Mods.
