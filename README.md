@@ -1,3 +1,5 @@
+# ProGUI
+
 ProGUI is based on BoonGUI. Main feature: allow the training of units through a dedicated panel. You decide the units you want to be produced and military buildings will training.
 
  ## ✨Features:
