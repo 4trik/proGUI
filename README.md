@@ -2,7 +2,7 @@
 
 ProGUI is based on BoonGUI. Main feature: allow the training of units through a dedicated panel. You decide the units you want to be produced and military buildings will training.
 
- ## ✨Features:
+ ## ✨Features
 
 -   Trainer: set the composition of units you want with mouse-wheel or toggle training of units you want to be trained whenever possible.
 -   Pro Panel:
@@ -32,3 +32,5 @@ System Default location for the /0ad/mods/folder
 Unpack root zip in your /0ad/mods/ folder.
 Start 0 A.D., click Settings and Mod Selection.
 Double-click boonGUI/proGUI, click Save Configuration and Start Mods.
+
+Based on BoonGUI: https://github.com/LangLangBart/boonGUI
