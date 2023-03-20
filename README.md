@@ -29,7 +29,7 @@ System Default location for the /0ad/mods/folder
    * macOS: `~/Library/Application\ Support/0ad/mods/`
    * Windows: `~\Documents\My Games\0ad\mods\`
 
-Unpack root zip in your /0ad/mods/ folder.
+Unpack zip in your /0ad/mods/ folder.
 Start 0 A.D., click Settings and Mod Selection.
 Double-click boonGUI/proGUI, click Save Configuration and Start Mods.
 
